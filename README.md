@@ -46,11 +46,10 @@ Somewhere between mathematics, artificial intelligence, and questionable experim
 
 | Project | Status |
 |---|---|
+| 🐶 Understanding Dogs | Impossible. Dogs already understand everything. |
+| 📐 Mathematical Modeling | Always thinking |
 | 🧠 Interpretable AI | Researching |
 | 🤖 Physical AI & Robotics | Experimenting |
-| 📐 Mathematical Modeling | Always thinking |
-| 🦾 Robot Imitation Learning | Training |
-| 🐶 Understanding Dogs | Impossible. Dogs already understand everything. |
 
 ### 🛠️ My Arsenal
 
@@ -60,11 +59,11 @@ Somewhere between mathematics, artificial intelligence, and questionable experim
 
 **AI / Machine Learning**
 
-`PyTorch` `Scikit-learn` `and more...`
+`PyTorch` `Scikit-learn` `...`
 
 **Robotics & Simulation**
 
-`ROS 2` `MuJoCo` `<-- stucying`
+`ROS 2` `MuJoCo` `<-- studying`
 
 **Infrastructure**
 
