@@ -1,63 +1,52 @@
+# 👾 bashg0x | The Unknown Engineer
 
-# ~/bashg0x 🧪
+**`AI` · `Math` · `Robotics` · `Dogs` · `Geek Culture`**
 
-> Identity: [REDACTED]  
-> Curiosity: UNLIMITED  
-> Status: Probably human.
+> "I teach machines to learn, but my dog taught me everything important."
+
+### 🕵️ Identity Verification
 
 ```bash
 $ whoami
 bashg0x
 
-$ cat /etc/identity
+$ sudo reveal --identity
 Permission denied.
 
-$ sudo reveal-identity
-Nice try.
-
-$ python main.py
-Warning: Too many ideas, not enough GPUs.
+$ cat personality.yaml
+curiosity: infinite
+coffee: required
+social_skills: experimental
+dog_lover: true
+otaku_level: over_9000
+human_probability: 0.51
 ```
 
-## 🧠 About This Entity
+### 🧠 About This Entity
 
-An unidentified engineer exploring the boundaries
-between mathematics, artificial intelligence,
-and the physical world.
+Somewhere between mathematics, artificial intelligence, and questionable experiments, there exists an unidentified engineer.
 
-Occasionally builds things that actually work.
+- 🔬 Exploring AI, mathematics, and physical systems
+- 🤖 Teaching robots how to interact with the real world
+- 🧮 Finding equations where others see data
+- 🐍 Speaking Python more fluently than human
+- 🎮 Geek by nature, engineer by profession
+- 🐶 Dogs are always welcome in my lab
 
-## 🔬 Current Experiments
+**Current mission:** Make machines smarter without losing my own sanity.
 
-- Teaching machines to understand physical systems
-- Exploring interpretable AI and equation discovery
-- Making robots learn from humans
-- Investigating why neural networks behave strangely
-- Turning coffee into Python code
+### 🧪 Experiments in Progress
 
-## ⚙️ Toolbox
+| Project | Status |
+|---|---|
+| 🧠 Interpretable AI | Researching |
+| 🤖 Physical AI & Robotics | Experimenting |
+| 📐 Mathematical Modeling | Always thinking |
+| 🦾 Robot Imitation Learning | Training |
+| 🐶 Understanding Dogs | Impossible. Dogs already understand everything. |
 
-`Python` `PyTorch` `Rust` `ROS 2`
+### 🛠️ My Arsenal
 
-`Docker` `Linux` `MuJoCo` `FastAPI`
+**Languages**
 
-## 🧬 Research Mode
-
-```python
-while curiosity:
-    hypothesis = generate_idea()
-    result = experiment(hypothesis)
-
-    if result.is_interesting:
-        publish(result)
-    else:
-        learn_from_failure(result)
-```
-
-## 🛰️ Transmission
-
-> "All models are wrong.
-> Some are useful.
-> Mine are still training."
-
-**EOF**
+`Python` `Rust`
