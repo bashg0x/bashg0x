@@ -1,6 +1,6 @@
 # 👾 bashg0x | The Unknown Engineer
 
-**`AI` · `Math` · `Robotics` · `Dogs` · `Geek Culture`**
+**`AI` · `DS` · `Math` · `Dogs` · `Geek Culture`**
 
 > "I teach machines to learn, but my dog taught me everything important."
 
@@ -18,7 +18,7 @@ curiosity: infinite
 coffee: required
 social_skills: experimental
 dog_lover: true
-otaku_level: over_9000
+otaku_level: 50 / 100
 human_probability: 0.51
 
 $ systemctl status reality
@@ -56,19 +56,19 @@ Somewhere between mathematics, artificial intelligence, and questionable experim
 
 **Languages**
 
-`Python` `Rust` `SQL`
+`Python` `Rust` `SQL` `Typescript` `Angular` `React`
 
 **AI / Machine Learning**
 
-`PyTorch` `Scikit-learn` `LightGBM`
+`PyTorch` `Scikit-learn` `and more...`
 
 **Robotics & Simulation**
 
-`ROS 2` `MuJoCo` `Isaac Sim`
+`ROS 2` `MuJoCo` `<-- stucying`
 
 **Infrastructure**
 
-`Linux` `Docker` `Git` `FastAPI`
+`Linux` `Docker` `WSL` `Git` `FastAPI` `Flask` `?`
 
 ### 🐕 The Most Important Research
 
