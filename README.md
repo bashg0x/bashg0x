@@ -1,169 +1,119 @@
-<div align="center">
+# 👾 bashg0x | The Unknown Engineer
 
-# ⌁ UNKNOWN LAB_ 
+**`AI` · `Math` · `Robotics` · `Dogs` · `Geek Culture`**
 
-**`[ AN INDEPENDENT RESEARCH UNIT // IDENTITY CLASSIFIED ]`**
+> "I teach machines to learn, but my dog taught me everything important."
 
-*Building intelligent systems under questionable canine supervision.*
+### 🕵️ Identity Verification
 
-`AI` · `MATHEMATICS` · `ROBOTICS` · `SYSTEMS` · `DOGS`
+```bash
+$ whoami
+bashg0x
 
----
+$ sudo reveal --identity
+Permission denied.
 
-</div>
+$ cat personality.yaml
+curiosity: infinite
+coffee: required
+social_skills: experimental
+dog_lover: true
+otaku_level: over_9000
+human_probability: 0.51
 
-### `root@unknown-lab:~$ ./boot.sh`
-
-```text
-[ OK ] Mathematical reasoning engine initialized
-[ OK ] Neural networks online
-[ OK ] Physical AI experiments armed
-[WARN] Human identity: REDACTED
-[ OK ] Chief Executive Dog authenticated 🐾
-[FAIL] Coffee supply below critical threshold
-
-WELCOME TO UNKNOWN LAB.
-UNAUTHORIZED CURIOSITY IS ENCOURAGED.
+$ systemctl status reality
+● reality.service - Reality Simulation
+   Active: active (running)
+   Warning: Reality may be a simulation.
 ```
 
-<details>
-<summary>🔐 <strong>ACCESS RESTRICTED — Click to inspect the operator</strong></summary>
+### 🧠 About This Entity
 
-```yaml
-handle: bashg0x
-identity: CLASSIFIED
-species: probably_human
-occupation: engineer / experimental life-form
-alignment: chaotic_curiosity
-favorite_languages: [Python, Rust, Mathematics]
-weaknesses: [dogs, unsolved_problems, interesting_repositories]
-coffee_dependency: unresolved
-otaku_mode: always_on
-```
+Somewhere between mathematics, artificial intelligence, and questionable experiments, there exists an unidentified engineer.
 
-> `sudo reveal-identity` → `Permission denied. Nice try.`
+- 🔬 Exploring AI, mathematics, and physical systems
+- 🤖 Teaching robots how to interact with the real world
+- 🧮 Finding equations where others see data
+- 🐍 Speaking Python more fluently than human
+- 🎮 Geek by nature, engineer by profession
+- 🐶 Dogs are always welcome in my lab
 
-</details>
+**Current mission:** Make machines smarter without losing my own sanity.
 
-## 🧪 Research Division
+*Note: All research activities are subject to canine approval.*
 
-An engineer exploring the intersection of **AI, mathematics, software architecture, and the physical world**.
-Interested in building systems that do more than produce predictions: systems we can *understand, test, and use*.
+### 🧪 Experiments in Progress
 
-```text
-UNKNOWN LAB
-├── 🧠 AI / ML                   Learning from data
-├── ∑  Mathematical Modeling    Making equations confess
-├── 🤖 Physical AI              Giving intelligence a body
-├── 🛠️ Systems Engineering       Making experiments reproducible
-└── 🐕 Canine Intelligence       The most advanced system in the lab
-```
+| Project | Status |
+|---|---|
+| 🧠 Interpretable AI | Researching |
+| 🤖 Physical AI & Robotics | Experimenting |
+| 📐 Mathematical Modeling | Always thinking |
+| 🦾 Robot Imitation Learning | Training |
+| 🐶 Understanding Dogs | Impossible. Dogs already understand everything. |
 
-**Currently investigating:** interpretable machine learning, equation discovery, time-series modeling, robotics simulation, sensor pipelines, and imitation learning.
+### 🛠️ My Arsenal
 
-## 🐕 Meet the Director
+**Languages**
 
-**Chief Executive Dog (C.E.D.)**  
-*Species:* Canis lupus familiaris  
-*Clearance:* OMEGA  
-*Authority:* Absolute
+`Python` `Rust` `SQL`
 
-> "The human thinks this is an AI laboratory. I let them believe that."
+**AI / Machine Learning**
 
-**Peer-reviewed findings (reviewed by one dog):**
+`PyTorch` `Scikit-learn` `LightGBM`
 
-| Hypothesis | Experimental result |
-| :--- | :--- |
-| Dogs can detect snacks without computer vision | ✅ Confirmed |
-| Dogs can optimize human behavior without backpropagation | ✅ Confirmed |
-| Dogs can be fully explained by a mathematical model | ❌ Model failed |
-| The director deserves another treat | ✅ Always accepted |
+**Robotics & Simulation**
 
-*No animals were subjected to gradient descent during these experiments.*
+`ROS 2` `MuJoCo` `Isaac Sim`
 
-## ⚡ Experimental Stack
+**Infrastructure**
 
-| Domain | Tools |
-| :--- | :--- |
-| Languages | `Python` `Rust` `SQL` |
-| AI / ML | `PyTorch` `scikit-learn` `LightGBM` |
-| Robotics | `ROS 2` `MuJoCo` `Isaac Sim` |
-| Systems | `Linux` `Docker` `Git` `FastAPI` |
-| Research | `NumPy` `SciPy` `Jupyter` |
+`Linux` `Docker` `Git` `FastAPI`
 
-## 🛰️ Open Experiments
+### 🐕 The Most Important Research
 
-| Project | Mission |
-| :--- | :--- |
-| [**YUBI Lab**](https://github.com/bashg0x/yubi-lab) | Sensor signals, ROS 2, and robotics data experiments |
-| [**Manipulation Lab**](https://github.com/bashg0x/manipulation-lab) | Robot manipulation, simulation, and imitation-learning experiments |
+**Principal Investigator:** The Dog 🐾  
+**Research Assistant:** bashg0x
 
-*These are experiments, not claims of production readiness.*
+**Hypothesis:** Dogs are superior life forms.
 
-## ∑ Notes from the Mathematical Underground
+**Observations:**
 
-> **Research objective:** Minimize uncertainty. Maximize curiosity. Avoid overfitting to reality.
+- No need for neural network training.
+- Excellent emotional intelligence.
+- Highly optimized food detection.
+- Can manipulate humans without gradient descent.
+
+**Conclusion:** Further research is required. Preferably with more dogs.
+
+*Funding status: All available resources allocated to treats.*
+
+### 🎮 Geek Mode: ENABLED
 
 ```python
-from math import inf
+class UnknownEngineer:
+    def __init__(self):
+        self.identity = "CLASSIFIED"
+        self.curiosity = float("inf")
+        self.energy = 100
+        self.dogs = "❤️"
 
-curiosity = inf
+    def daily_routine(self):
+        while self.energy > 0:
+            self.experiment()
+            self.debug()
+            self.question_reality()
+            self.energy -= 1
 
-def research(hypothesis):
-    result = run_experiment(hypothesis)  # implementation classified
-    return "new questions" if result.is_interesting else "better questions"
+        return "Need coffee and dogs."
 ```
 
-Some working principles:
+### 📡 Final Transmission
 
-- `∇(curiosity) ≠ 0` — There's always another direction to explore.
-- `P(dog_is_good) = 1` — An axiom, not an empirical estimate.
-- `Loss = bugs + assumptions + insufficient_coffee` — A highly unofficial objective function.
-- `42` — The answer is known; the question is still under investigation.
+> The universe is written in mathematics.  
+> My code is written in Python.  
+> My bugs are written in mysterious ways.
 
-## 🎮 Operator Status
+**Status:** Still learning. Still building. Still debugging.
 
-```text
-CLASS        : AI Engineer / Researcher
-MAIN QUEST   : Understand intelligent systems
-SIDE QUESTS  : Robotics, equations, obscure bugs
-FINAL BOSS   : Reproducibility
-COMPANION    : 🐕 Chief Executive Dog
-HP           : ███████░░░ 70%
-CURIOSITY    : ██████████ ∞
-SOCIAL SKILL : [UNDER DEVELOPMENT]
-```
-
-<details>
-<summary>🕳️ <strong>Secret terminal — For curious visitors only</strong></summary>
-
-```text
-$ ssh director@unknown-lab
-Password: ********
-ACCESS GRANTED.
-
-DIRECTOR'S MESSAGE:
-The equations are temporary.
-The bugs are eternal.
-The dog is in charge.
-
-$ exit
-Connection closed by good boy.
-```
-
-</details>
-
----
-
-<div align="center">
-
-**`[ TRANSMISSION END ]`**
-
-*Stay curious. Question assumptions. Pet dogs.* 🐾
-
-`// EOF — UNKNOWN LAB`
-
-</div>
-
-<!-- EASTER EGG: The true administrator has four paws. -->
-<!-- If you're reading the source, your clearance has been upgraded to LEVEL: CURIOUS. -->
+`[ CONNECTION TERMINATED ... 🐾 ]`
