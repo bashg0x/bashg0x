@@ -27,47 +27,23 @@ $ systemctl status reality
    Warning: Reality may be a simulation.
 ```
 
-### 🧠 About This Entity
-
-Somewhere between mathematics, artificial intelligence, and questionable experiments, there exists an unidentified engineer.
-
-- 🔬 Exploring AI, mathematics, and physical systems
-- 🤖 Teaching robots how to interact with the real world
-- 🧮 Finding equations where others see data
-- 🐍 Speaking Python more fluently than human
-- 🎮 Geek by nature, engineer by profession
-- 🐶 Dogs are always welcome in my lab
-
-**Current mission:** Make machines smarter without losing my own sanity.
-
-*Note: All research activities are subject to canine approval.*
-
-### 🧪 Experiments in Progress
-
-| Project | Status |
-|---|---|
-| 🐶 Understanding Dogs | Impossible. Dogs already understand everything. |
-| 📐 Mathematical Modeling | Always thinking |
-| 🧠 Interpretable AI | Researching |
-| 🤖 Physical AI & Robotics | Experimenting |
-
 ### 🛠️ My Arsenal
 
 **Languages**
 
-`Python` `Rust` `SQL` `Typescript` `Angular` `React`
+`Python` `Rust` `SQL` `TypeScript` `Angular` `React`
 
 **AI / Machine Learning**
 
-`PyTorch` `Scikit-learn` `...`
+`PyTorch` `Scikit-learn` `Scipy` `StatsModels` `...`
 
 **Robotics & Simulation**
 
-`ROS 2` `MuJoCo` `<-- studying`
+`ROS 2` `MuJoCo` `?`
 
 **Infrastructure**
 
-`Linux` `Docker` `WSL` `Git` `FastAPI` `Flask` `?`
+`Linux` `Docker` `WSL` `Git` `FastAPI` `Flask`
 
 ### 🐕 The Most Important Research
 
