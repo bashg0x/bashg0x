@@ -35,11 +35,11 @@ $ systemctl status reality
 
 **AI / Machine Learning**
 
-`PyTorch` `Scikit-learn` `Scipy` `StatsModels` `...`
+`PyTorch` `Scikit-learn` `Scipy` `StatsModels` `Transformers` `...`
 
 **Robotics & Simulation**
 
-`ROS 2` `MuJoCo` `?`
+`ROS2` `MuJoCo` `?`
 
 **Infrastructure**
 
