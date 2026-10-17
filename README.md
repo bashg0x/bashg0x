@@ -1,4 +1,4 @@
-# 👾 bashg0x | The Unknown Engineer
+# 👾 The Unknown Engineer
 
 **`AI` · `DS` · `Math` · `Dogs` · `Geek Culture`**
 
